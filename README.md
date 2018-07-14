@@ -1,17 +1,24 @@
 # Template_fuzen_ver.3
 
-
+<br>
 
 ## Main Page 구성
 
 - About Us
+
 - 이모티콘 제작 과정
+
 - Service 소개
+
 - 비용
 
-[참고자료]: http://v.media.daum.net/v/20171212112222575?f=p	"낮아진 이모티콘 시장"
+  
 
+- 참고자료
 
+  - http://v.media.daum.net/v/20171212112222575?f=p
+
+<br>
 
 ### CSS 
 
@@ -38,6 +45,8 @@
     ```
 
     
+
+    <hr>
 
 ### 계획
 
