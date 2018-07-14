@@ -9,7 +9,7 @@
 - Service 소개
 - 비용
 
-[]: http://v.media.daum.net/v/20171212112222575?f=p	"낮아진 이모티콘 시장장벽"
+[참고자료]: http://v.media.daum.net/v/20171212112222575?f=p	"낮아진 이모티콘 시장"
 
 
 
